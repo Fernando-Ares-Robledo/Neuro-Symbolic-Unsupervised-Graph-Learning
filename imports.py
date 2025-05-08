@@ -40,5 +40,3 @@ from logging_config import logging_config
 logging.config.dictConfig(logging_config)
 
 from auxiliares import *
-from modulo_symbolico import *
-from modulo_neural import *
